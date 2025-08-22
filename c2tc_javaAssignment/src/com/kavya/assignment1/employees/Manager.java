@@ -1,4 +1,4 @@
-package com.kavya.assignment.employees;
+package com.kavya.assignment1.employees;
 
 public class Manager extends Employees {
 

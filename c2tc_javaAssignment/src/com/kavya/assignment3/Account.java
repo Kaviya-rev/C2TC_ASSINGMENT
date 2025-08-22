@@ -1,4 +1,4 @@
-package com.kavya.assignment4;
+package com.kavya.assignment3;
 
 public abstract class Account {
     protected int accountNumber;

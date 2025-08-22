@@ -1,4 +1,4 @@
-package com.kavya.assignment4;
+package com.kavya.assignment3;
 
 public class SavingsAccount extends Account {
     private double interestRate = 0.03;

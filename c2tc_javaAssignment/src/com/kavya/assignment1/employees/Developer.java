@@ -1,5 +1,5 @@
 // this is
-package com.kavya.assignment.employees;
+package com.kavya.assignment1.employees;
 
 public class Developer extends Employees{
         private int developerId;

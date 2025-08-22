@@ -1,4 +1,4 @@
-package com.kavya.assignment3;
+package com.kavya.assignment2;
 
 public class Item {
     private int id;

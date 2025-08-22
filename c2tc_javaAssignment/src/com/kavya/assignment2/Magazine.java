@@ -1,4 +1,4 @@
-package com.kavya.assignment3;
+package com.kavya.assignment2;
 
 public class Magazine extends Item {
     private int issueNumber;

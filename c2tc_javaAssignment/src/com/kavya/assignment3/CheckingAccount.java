@@ -1,4 +1,4 @@
-package com.kavya.assignment4;
+package com.kavya.assignment3;
 
 public class CheckingAccount extends Account {
     private double overdraftLimit = 500;

@@ -1,4 +1,4 @@
-package com.kavya.assignment4;
+package com.kavya.assignment3;
 
 public final class Transaction {
     private final double transactionFee = 10.0;

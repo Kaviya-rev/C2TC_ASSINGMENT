@@ -1,7 +1,7 @@
-package com.kavya.assignment;
+package com.kavya.assignment1;
 
-import com.kavya.assignment.employees.*;
-import com.kavya.assignment.utilities.*;
+import com.kavya.assignment1.employees.*;
+import com.kavya.assignment1.utilities.*;
 
 public class AssignmentMain {
 

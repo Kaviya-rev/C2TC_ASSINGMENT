@@ -1,6 +1,6 @@
-package com.kavya.assignment.utilities;
+package com.kavya.assignment1.utilities;
 
-import com.kavya.assignment.employees.*;
+import com.kavya.assignment1.employees.*;
 
 public class EmployeeUtilities {
 

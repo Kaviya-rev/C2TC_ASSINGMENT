@@ -1,4 +1,4 @@
-package com.kavya.assignment2;
+package com.kavya.assignment01;
 
 import java.util.Scanner;
 
